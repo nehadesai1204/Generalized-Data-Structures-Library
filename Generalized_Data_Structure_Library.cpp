@@ -5,7 +5,7 @@ using namespace std;
 //
 //  class :         QueueX
 //  Description :   Generic implementation of Queue    
-//  Author  :       Sakshi Pankaj Borhade
+//  Author  :       Neha Navin Desai
 //
 ////////////////////////////////////////////////////////////////////////////////////
 
@@ -37,7 +37,7 @@ class QueueX
 //
 //	Function Name			:	QueueX
 //	Function Date			:	15/09/2025
-//	Function Author			:	Sakshi Pankaj Borhade
+//	Function Author			:	Neha Navin Desai
 //	Parameters  			:   NONE
 //	Description             :   This is constructor of class QueueX
 //  Returns					:   NONE
@@ -55,7 +55,7 @@ QueueX<T> :: QueueX()
 //
 //	Function Name			:	Enqueue
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		[IN] T no.
@@ -105,7 +105,7 @@ void QueueX<T> :: Enqueue(
 //
 //	Function Name			:	Dequeue
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -147,7 +147,7 @@ T QueueX<T> :: Dequeue()
 //
 //	Function Name			:	Display
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -179,7 +179,7 @@ void QueueX<T> :: Display()
 //
 //	Function Name			:	Count
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -202,7 +202,7 @@ int QueueX<T> :: Count()
 //
 //  class :         StackX
 //  Description :   Generic implementation of Stack    
-//  Author  :       Sakshi Pankaj Borhade
+//  Author  :       Neha Navin Desai
 //
 ////////////////////////////////////////////////////////////////////////////////////
 
@@ -234,7 +234,7 @@ class StackX
 //
 //	Function Name			:	StackX
 //	Function Date			:	15/09/2025
-//	Function Author			:	Sakshi Pankaj Borhade
+//	Function Author			:	Neha Navin Desai
 //	Parameters  			:   NONE
 //	Description             :   This is constructor of class StackX
 //  Returns					:   NONE
@@ -252,7 +252,7 @@ StackX<T> :: StackX()
 //
 //	Function Name			:	Push
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		[IN] T no.
@@ -288,7 +288,7 @@ void StackX<T> :: Push(
 //
 //	Function Name			:	Pop
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -330,7 +330,7 @@ T StackX<T> :: Pop()
 //
 //	Function Name			:	Display
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -362,7 +362,7 @@ void StackX<T> :: Display()
 //
 //	Function Name			:	Count
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -385,7 +385,7 @@ int StackX<T> :: Count()
 //
 //  class :         SinglyCLL
 //  Description :   Generic implementation of Singly circular linked list    
-//  Author  :       Sakshi Pankaj Borhade
+//  Author  :       Neha Navin Desai
 //
 ////////////////////////////////////////////////////////////////////////////////////
 
@@ -472,7 +472,7 @@ class SinglyCLL
 //
 //	Function Name			:	SinglyCLL
 //	Function Date			:	15/09/2025
-//	Function Author			:	Sakshi Pankaj Borhade
+//	Function Author			:	Neha Navin Desai
 //	Parameters  			:   NONE
 //	Description             :   This is constructor of class SinglyCLL
 //  Returns					:   NONE
@@ -492,7 +492,7 @@ SinglyCLL<T> :: SinglyCLL()
 //
 //	Function Name			:	InsertFirst
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		[IN] T no.
@@ -539,7 +539,7 @@ void SinglyCLL<T> :: InsertFirst(
 //
 //	Function Name			:	InsertLast
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		[IN] T no.
@@ -586,7 +586,7 @@ void SinglyCLL<T> :: InsertLast(
 //
 //	Function Name			:	DeleteFirst
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -627,7 +627,7 @@ void SinglyCLL<T> :: DeleteFirst()
 //
 //	Function Name			:	DeleteLast
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -677,7 +677,7 @@ void SinglyCLL<T> :: DeleteLast()
 //
 //	Function Name			:	Display
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -717,7 +717,7 @@ void SinglyCLL<T> :: Display()
 //
 //	Function Name			:	Count
 //	Function Date			:	15/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -740,7 +740,7 @@ int SinglyCLL<T> :: Count()
 //
 //	Function Name			:	SearchFirstOcc
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		[In] T no.
@@ -777,7 +777,7 @@ int SinglyCLL<T> ::  SearchFirstOcc(
 //
 //	Function Name			:	SearchLastOcc
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		[In] T no.
@@ -814,7 +814,7 @@ int SinglyCLL<T> :: SearchLastOcc(
 //
 //	Function Name			:	Addition
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -844,7 +844,7 @@ int SinglyCLL<T> :: Addition()
 //
 //	Function Name			:	Maximum
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -879,7 +879,7 @@ int SinglyCLL<T> :: Maximum()
 //
 //	Function Name			:	Minimum
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -914,7 +914,7 @@ int SinglyCLL<T> :: Minimum()
 //
 //	Function Name			:	DisplayPerfect
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -957,7 +957,7 @@ void SinglyCLL<T> :: DisplayPerfect()
 //
 //	Function Name			:	DisplayPrime
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1008,7 +1008,7 @@ void SinglyCLL<T> :: DisplayPrime()
 //
 //	Function Name			:	AddEven
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1042,7 +1042,7 @@ int SinglyCLL<T> :: AddEven()
 //
 //	Function Name			:	SecMaximum
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1080,7 +1080,7 @@ int SinglyCLL<T> :: SecMaximum()
 //
 //	Function Name			:	SumDigit
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1119,7 +1119,7 @@ void SinglyCLL<T> :: SumDigit()
 //
 //	Function Name			:	Reverse
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1157,7 +1157,7 @@ void SinglyCLL<T> :: Reverse()
 //
 //	Function Name			:	DisplayPalindrome
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1200,7 +1200,7 @@ void SinglyCLL<T> :: DisplayPalindrome()
 //
 //	Function Name			:	DisplayProduct
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1243,7 +1243,7 @@ void SinglyCLL<T> :: DisplayProduct()
 //
 //	Function Name			:	DisplaySmall
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
@@ -1285,7 +1285,7 @@ void SinglyCLL<T> :: DisplaySmall()
 //
 //	Function Name			:	DisplayLargest
 //	Function Date			:	16/09/2025
-//	Function Author		    :	Sakshi Pankaj Borhade
+//	Function Author		    :	Neha Navin Desai
 //	Parameters:
 //
 //		NONE
